@@ -1,0 +1,7 @@
+database:
+  uri: "mongodb+srv://doadmin:Ur576uLt204PJ89v@db-mongodb-nyc1-99657-9dc27d64.mongo.ondigitalocean.com/database?authSource=admin&replicaSet=db-mongodb-nyc1-99657&tls=true"
+  databasename: "database"
+  username: "doadmin"
+  password: "Ur576uLt204PJ89v"
+server:
+  port: ":5000"
